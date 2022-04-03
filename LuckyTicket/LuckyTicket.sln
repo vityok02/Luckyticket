@@ -5,6 +5,11 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LuckyTicket", "LuckyTicket\LuckyTicket.csproj", "{FA272576-9BAD-49B6-8759-6924F6D7C4F2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DCB4B1BB-6298-4E13-8FE1-02AB458C4795}"
+	ProjectSection(SolutionItems) = preProject
+		run.bat = run.bat
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
