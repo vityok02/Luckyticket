@@ -9,3 +9,14 @@ else if (a.Length > 8)
 {
     Console.WriteLine("Твой билет имеет много символов");
 }
+else
+{
+    int n = a.Length % 2;
+    if (n == 0)
+    {
+        Console.WriteLine("четное");
+    }
+    else
+    {
+    }
+}
